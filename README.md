@@ -8,4 +8,4 @@ As disclaimer, this project is for school and the data and hyothesis are not rea
 
 
 **Look of the webpage**
-![View of the Webpage](https://github.com/jinnabelle/UFOs/blob/main/initial%20webpage.png)
+![View of the Webpage](https://github.com/jinnabelle/plotly_deployment/blob/main/webpage_scrnshot.png?raw=true)
